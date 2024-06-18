@@ -1,7 +1,7 @@
-Hi, I’m Anna, I'm a Ms Data Scientist //
-👨‍🎓I’m interested in://
-- Medical Statistics (focus on embryology),//
-- Data Science applied in Clinical Research//
+Hi, I’m Anna, I'm a Ms Data Scientist <br />
+👨‍🎓I’m interested in: <br />
+- Medical Statistics (focus on embryology),
+- Data Science applied in Clinical Research
 💪This is where I code and solve problems://
 - Python, //
 - R-studio, //
